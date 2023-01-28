@@ -19,7 +19,7 @@
 			border-color:red;
 			border-style:none; 
 			border-top-style:dotted;
-			border-width:5px;
+			border-width
 			width:10%
 		}
 /*at the top "border-style:none;"this is use
@@ -38,7 +38,47 @@
 			<th> <h1>ANUJ MISHRA CV</h1>
 	<p>my self anuj i am a coding teacher at <a href="https://youtube.com"> youtube</a></p>
 	<p>i am a web developer as wll as </p>
- </th>
+ </th><!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table>
+	 <tr>
+ <th><img src="anuj.jpg" height="180px" width="190px"></th>
+		 <td>
+			 <h3>MY FITNESS JOURNEY</h3>
+			 <p>my fitness journey start from class 10th</p>
+			 <p>In class 11 i will join the gym</p>
+		 </td>
+	 </tr>
+</table>
+	<hr> 
+	<h1> TEACHER AND TRAINNER</h1>
+	<p>I am a teacher of coading as well as math </p>
+	<p>i am also a trainner for the physical </p>
+	<hr>
+	<a href="profession.html"> MY PROFESSION</a>
+	<a href="contact.html"> CONTACT ME</a>
+	
+	<script src="script.js"></script>
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
+
 		</tr>
 	
 	</table>
@@ -107,6 +147,4 @@
   teal, blue, blurple, magenta, pink!
   -->
   <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
-</body>
-
-</html>
+</
